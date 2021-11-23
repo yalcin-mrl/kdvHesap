@@ -1,3 +1,3 @@
 # kdvHesap
 
-![Kdv hesaplama](images/Capture.Png)
+![Kdv hesaplama](images/Capture.PNG)
